@@ -1,0 +1,6 @@
+Opened Firefox to http://cs.uga.edu/~neasbitt
+Clicked on the Resume link (http://cs.uga.edu/~neasbitt/resume.html)
+Clicked on the Alice link (http://www.alice.org/)
+Closed Firefox
+
+Purpose: To test simple links

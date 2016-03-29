@@ -1,0 +1,7 @@
+Opened Firefox to http://docs.oracle.com/javase/6/docs/api/
+Clicked on the URL link in the lower right frame (http://docs.oracle.com/javase/6/docs/api/java/net/URL.html)
+Clicked on the METHOD line in the middle frame (http://docs.oracle.com/javase/6/docs/api/java/net/URL.html#method_summary)
+Clicked on the Object link in the middle frame (http://docs.oracle.com/javase/6/docs/api/java/lang/Object.html) Note: parameter of the equals method
+Closed Firefox
+
+Purpose: To test a single layer of frames

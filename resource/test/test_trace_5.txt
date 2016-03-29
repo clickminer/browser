@@ -1,0 +1,8 @@
+Opened Firefox to http://www.cnet.com/
+Clicked on the Outlook.com flash ad, landed on (http://windows.microsoft.com/en-us/windows/outlook/home?ocid=CNET_CU_SF_OUT_New_Welcome_970x66V1R1)
+Closed Firefox
+
+Purpose: To test flash ads
+Note: this trace requires native events to be activated,  there are still issues
+with the mouse action activating the a:hover action of the menu above the flash
+object, thereby blocking the object from view and stealing the click.

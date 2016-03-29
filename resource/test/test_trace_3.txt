@@ -1,0 +1,9 @@
+Opened Firefox to http://topdocumentaryfilms.com/
+Opened the Talks/Lectures link (http://keentalks.com/) in a new tab
+Clicked on the "Is the Foundation of Morality Natural or Supernatual?" link (http://keentalks.com/foundation-morality-natural-supernatural/)
+Closed the Top Documentary Films tab
+Clicked play on the video
+Closed Firefox
+
+Purpose: To test multiple tabs.
+Note: Recollect with the addition of interacting with the tab to be closed.

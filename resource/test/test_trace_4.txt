@@ -1,0 +1,8 @@
+Opened Firefox to http://www.google.com
+Typed "chedder cheese" into the search form and hit enter.
+Clicked on the "Showing results for cheddar cheese" link (http://www.google.com/search?hl=en&sa=X&ei=vGIEUJKgFIau9ATUq4H4Bw&ved=0CEkQvwUoAQ&q=cheddar+cheese&spell=1&biw=1440&bih=730)
+Clicked on the Cheddar cheese - Wikipedia, the free encyclopedia link (http://www.google.com/url?sa=t&rct=j&q=cheddar%20cheese&source=web&cd=1&ved=0CGMQFjAA&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCheddar_cheese&ei=ymIEULLEDYi88AS39_j9Bw&usg=AFQjCNF1iTo3lc1XkBim_7XnEIwRmhtTpQ&cad=rja)
+Clicked on the Main page link (http://en.wikipedia.org/wiki/Main_Page)
+Closed Firefox
+
+Purpose: To test form submission.

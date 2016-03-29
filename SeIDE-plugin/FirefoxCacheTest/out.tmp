@@ -1,0 +1,234 @@
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318692929 URL=chrome://browser/content/hiddenWindow.xul CurrURL=(null) RER=(null)
+==========> OPENING NEW WINDOW <===========
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318692999 URL=chrome://browser/content/browser.xul CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318693811 URL=about:blank CurrURL=(null) RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318693811 URL=about:blank CurrURL=(null) RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318693811 URL=about:blank CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318693930 URL=file:///Users/perdisci/Desktop/UGA/Projects/ClickFraud/ClickMiner/clickfinder-browser/trunk/SeIDE-plugin/FirefoxCacheTest/quitForMac.html CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318693936 URL=about:blank CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318693946 URL=http://www.cs.uga.edu/ CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318693976 URL=about:blank CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318693979 URL=http://www.facebook.com/ CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318693986 URL=about:blank CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318693988 URL=http://www.youtube.com/ CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318693994 URL=about:blank CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318693997 URL=http://www.yahoo.com/ CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318694002 URL=about:blank CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318694005 URL=http://www.baidu.com/ CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318694011 URL=about:blank CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318694014 URL=http://www.wikipedia.org/ CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318694020 URL=about:blank CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318694022 URL=http://www.live.com/ CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318694029 URL=about:blank CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318694032 URL=http://www.twitter.com/ CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318694038 URL=about:blank CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318694041 URL=http://www.qq.com/ CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318694047 URL=about:blank CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318694050 URL=http://www.amazon.com/ CurrURL=about:blank RER=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318696359 URL=about:blank CurrURL=(null) REF=http://www.qq.com/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318696369 URL=about:blank CurrURL=(null) REF=http://www.qq.com/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318696370 URL=http://act.shop.qq.com/promote/2012/index_55.shtml CurrURL=(null) REF=http://www.qq.com/
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318696708 URL=https://home.live.com/ REF=http://www.live.com/
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318696709 URL=https://twitter.com/ REF=http://www.twitter.com/
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318696710 URL=https://www.facebook.com/ REF=http://www.facebook.com/
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318696842 URL=http://en.wikipedia.org/favicon.ico
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318696849 URL=about:blank CurrURL=(null) REF=http://www.amazon.com/
+=======> OPENED XMLHttpRequest <=======
+:: ClickMiner :: XMLHttpRequest :: TS=1352318696968 URL=http://www.amazon.com/gp/gateway-center-stage/ajax/get-content.html?_=1352318696968 
+BaseURI=http://www.amazon.com/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318697155 URL=http://ad-g.doubleclick.net/N4061/adi/com.ythome/_default;sz=970x250;tile=1;plat=pc;dc_dedup=1;kbsg=HPUS121107;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_1; CurrURL=(null) REF=http://www.youtube.com/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318697157 URL=http://ad-g.doubleclick.net/N4061/adi/com.ythome/_default;sz=970x250;tile=1;plat=pc;dc_dedup=1;kbsg=HPUS121107;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_1;ord=2170606089966452? CurrURL=(null) REF=http://www.youtube.com/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318697184 URL=about:blank CurrURL=(null) REF=http://www.youtube.com/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318697184 URL=http://ad-g.doubleclick.net/N6762/adi/mkt.ythome_1x1/;sz=1x1;tile=3;plat=pc;dc_dedup=1;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_3;ord=9156610924468466? CurrURL=(null) REF=http://www.youtube.com/
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318697343 URL=http://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318697429 URL=http://d3l3lkinz3f56t.cloudfront.net/dclk1-0.9.html#swf=http%3A//s0.2mdn.net/3847335/GE_Capital_300x250.swf#img=http%3A//s0.2mdn.net/3847335/GE_Capital_300x250.jpg#clk=http%3A//ad.doubleclick.net/click%253Bh%253Dv8/3d26/3/0/%252a/d%253B263940846%253B0-0%253B0%253B18273353%253B4307-300/250%253B51272152/51241060/1%253Bu%253D52c62c0a15c043e6bf70399d2c842e5f%253B%257Esscs%253D%253fhttp%3A//www.amazon.com/gp/cobrandcard/marketing.html/%3Fpr%3Dconplcc%26inc%3Dplcc6%26plattr%3DAMGPLCC4#fv=9#w=300#h=250#wm=transparent#bg=#alt=#t=_blank#ct=clickTag#pix= CurrURL=(null) REF=http://www.amazon.com/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318699870 URL=http://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211 CurrURL=(null) REF=http://ad-g.doubleclick.net/N6762/adi/mkt.ythome_1x1/;sz=1x1;tile=3;plat=pc;dc_dedup=1;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_3;ord=9156610924468466?
+==========> OPENING NEW WINDOW <===========
+:: ClickMiner :: NewWindow :: TS=1352318699872 URL=chrome://global/content/commonDialog.xul OWN=file:///Users/perdisci/Desktop/UGA/Projects/ClickFraud/ClickMiner/clickfinder-browser/trunk/SeIDE-plugin/FirefoxCacheTest/quitForMac.html
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318699882 URL=chrome://global/content/commonDialog.xul CurrURL=about:blank REF=file:///Users/perdisci/Desktop/UGA/Projects/ClickFraud/ClickMiner/clickfinder-browser/trunk/SeIDE-plugin/FirefoxCacheTest/quitForMac.html
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318699933 URL=about:blank CurrURL=(null) REF=http://ad-g.doubleclick.net/N4061/adi/com.ythome/_default;sz=970x250;tile=1;plat=pc;dc_dedup=1;kbsg=HPUS121107;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_1;ord=2170606089966452?
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318699933 URL=http://www.youtube.com/doubleclick/DARTIframe.html?adParams=id%3D1352165548021%26creativeIdentifier%3DGlobalTemplate_13521655480211352318699930%26adContainerElementId%3D%26mtfNoFlush%3D%26globalTemplateVersion%3D101_06%26isInterstitial%3Dfalse%26mediaServer%3Dhttp%253A//s0.2mdn.net%26adServer%3Dhttp%253A//ad.doubleclick.net%26adserverUrl%3Dhttp%253A//ad.doubleclick.net/activity%253Bsrc%253D3163378%253Bmet%253D1%253Bv%253D1%253Bpid%253D90475835%253Baid%253D264799302%253Bko%253D0%253Bcid%253D51277304%253Brid%253D51246207%253Brv%253D1%253B%26stringPostingUrl%3Dhttp%253A//ad.doubleclick.net/activity%253Bsrc%253D3163378%253Bstragg%253D1%253Bv%253D1%253Bpid%253D90475835%253Baid%253D264799302%253Bko%253D0%253Bcid%253D51277304%253Brid%253D51246207%253Brv%253D1%253Brn%253D8135963%253B%26customKeyValues%3D%26adTagKeys%3D%26swfParams%3Dsn%253DN5700.127733.4511652073321%2526sid%253D722036%2526aid%253D264799302%2526cid%253D51277304%2526pid%253D90475835%2526src%253D3163378%2526rv%253D1%2526rid%253D51246207%2526buy%253D7133137%2526adv%253D3163378%2526ct%253DUS%2526st%253DGA%2526ac%253D706%2526zp%253D30602%2526bw%253D5%2526dma%253D26%2526city%253D13729%2526%26renderingId%3D51246207%26previewMode%3Dfalse%26debugEventsMode%3Dfalse%26pubHideObjects%3D%26pubHideApplets%3Dfalse%26mtfInline%3Dfalse%26pubTop%3D%26pubLeft%3D%26pubTopFloat%3D%26pubRightFloat%3D%26pubBottomFloat%3D%26pubLeftFloat%3D%26pubDuration%3D%26pubWMode%3D%26pubTopDuration%3D%26pubTopWMode%3D%26pubRightDuration%3D%26pubRightWMode%3D%26pubBottomD&gtVersion=101_06&mediaserver=http%3A//s0.2mdn.net/879366&cid=GlobalTemplate_13521655480211352318699930&plcrjs=http%3A//s0.2mdn.net/3163378/plcr_2330328_264799302_1352165552629.js&globalTemplateJs=http%3A//s0.2mdn.net/879366/expandingIframeGlobalTemplate_101_06.js&customScriptFile=&needSlaves=true&numberOfSlaves=2 CurrURL=(null) REF=http://ad-g.doubleclick.net/N4061/adi/com.ythome/_default;sz=970x250;tile=1;plat=pc;dc_dedup=1;kbsg=HPUS121107;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_1;ord=2170606089966452?
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318699938 URL=about:blank CurrURL=(null) REF=http://ad-g.doubleclick.net/N4061/adi/com.ythome/_default;sz=970x250;tile=1;plat=pc;dc_dedup=1;kbsg=HPUS121107;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_1;ord=2170606089966452?
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318699938 URL=http://www.youtube.com/doubleclick/DARTIframe.html?adParams=uration%3D%26pubBottomWMode%3D%26pubLeftDuration%3D%26pubLeftWMode%3D%26isRelativeBody%3Dfalse%26debugJSMode%3Dfalse%26adjustOverflow%3Dfalse%26asContext%3D%26clickThroughUrl%3Dhttp%253A//adclick.g.doubleclick.net/aclk%253Fsa%253DL%2526ai%253DBXlfR6b6aUJy0Ioq7sQfFnID4BqWdgcIEAAAAEAEgADgAUMzCvGNYvcXe1Wlgyba5h-CjtBCCARdjYS1wdWItMjYxNDY2NjI2MTU3OTc0MbIBD3d3dy55b3V0dWJlLmNvbboBCWdmcF9pbWFnZcgBCdoBF2h0dHA6Ly93d3cueW91dHViZS5jb20vwAIC4AIA6gIYNDA2MS9jb20ueXRob21lL19kZWZhdWx0-AKE0h6AAwGQA6QDmAOkA6gDAeAEAaAGHg%2526num%253D0%2526sig%253DAOD64_11fx_PHLjw3YfBPGVhSjkwx93M2Q%2526client%253Dca-pub-2614666261579741%2526adurl%253Dhttp%25253A%25252F%25252Fad.doubleclick.net/click%25253Bh%25253Dv8/3d26/3/0/%25252a/k%25253B264799302%25253B0-0%25253B0%25253B90475835%25253B29972-970/250%25253B51277304/51246207/1%25253B%25253B%25257Esscs%25253D%25253f%26clickN%3D%26type%3DExpandingFlash%26uniqueId%3D1352165548021%26thirdPartyImpUrl%3Dhttp%253A//view.atdmt.com/AD0/view/416733130/direct%253Bat.WDS_LINCOLN_GA-YT_1x1_RM_V1_0K_DISNEY%253Bct.1/01/%26thirdPartyFlashDisplayUrl%3D%26thirdPartyBackupImpUrl%3D%26surveyUrl%3D%26googleContextDiscoveryUrl%3Dhttp%253A//pagead2.googlesyndication.com/pagead/ads%253Fclient%253Ddclk-3pas-query%2526output%253Dxml%2526geo%253Dtrue%26livePreviewSiteUrl%3D%2525LivePreviewSiteUrl%26customScriptFileUrl%3D%26servingMethod%3Dx%26mode%3Dflash%26isHTML5Creative%3Dfalse%26isHTML5PreviewMode%3Dfalse%26forceHTML5Creative%3Dfalse%26adId%3D264799302%26buyId%3D7133137%26pageId%3D90475835%26siteId%3D722036%26creativeId%3D51277304%26keyValueOrdinal%3D0%26advertiserId%3D3163378%26renderingVersion%3D1%26siteName&gtVersion=101_06&mediaserver=http%3A//s0.2mdn.net/879366&cid=GlobalTemplate_13521655480211352318699930&index=0 CurrURL=(null) REF=http://ad-g.doubleclick.net/N4061/adi/com.ythome/_default;sz=970x250;tile=1;plat=pc;dc_dedup=1;kbsg=HPUS121107;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_1;ord=2170606089966452?
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318699943 URL=about:blank CurrURL=(null) REF=http://ad-g.doubleclick.net/N4061/adi/com.ythome/_default;sz=970x250;tile=1;plat=pc;dc_dedup=1;kbsg=HPUS121107;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_1;ord=2170606089966452?
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318699943 URL=http://www.youtube.com/doubleclick/DARTIframe.html?adParams=%3DN5700.127733.4511652073321%26geoData%3Dct%253DUS%2526st%253DGA%2526ac%253D706%2526zp%253D30602%2526bw%253D5%2526dma%253D26%2526city%253D13729%26csiBaseline%3D1352318699930%26csiAdRespTime%3DNaN%26shouldDisplayFlashAsset%3Dtrue%26globalTemplateJs%3Dhttp%253A//s0.2mdn.net/879366/expandingIframeGlobalTemplate_101_06.js&gtVersion=101_06&mediaserver=http%3A//s0.2mdn.net/879366&cid=GlobalTemplate_13521655480211352318699930&index=1 CurrURL=(null) REF=http://ad-g.doubleclick.net/N4061/adi/com.ythome/_default;sz=970x250;tile=1;plat=pc;dc_dedup=1;kbsg=HPUS121107;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_1;ord=2170606089966452?
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318700192 URL=about:blank CurrURL=(null) REF=http://www.qq.com/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318700193 URL=about:blank CurrURL=(null) REF=http://www.qq.com/
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318700237 URL=https://mail.live.com/?rru=home&livecom=1 REF=https://home.live.com/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318700253 URL=javascript:void(false) CurrURL=(null) REF=http://www.amazon.com/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318700256 URL=javascript:void(false) CurrURL=(null) REF=http://www.amazon.com/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318700258 URL=javascript:void(false) CurrURL=(null) REF=http://www.amazon.com/
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318700298 URL=http://mat1.gtimg.com/joke/Koala/Koala.min.1.3.3.js
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318700842 URL=http://b.scorecardresearch.com/p2?c1=2&c2=7241469&c4=http%253A%252F%252Fwww.yahoo.com&c5=2023538075&ns__t=1352318699615&ns_c=UTF-8 REF=http://b.scorecardresearch.com/p?c1=2&c2=7241469&c4=http%253A%252F%252Fwww.yahoo.com&c5=2023538075&ns__t=1352318699615&ns_c=UTF-8
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318700898 URL=http://spe.atdmt.com/images/pixel.gif REF=http://view.atdmt.com/AD0/view/416733130/direct;at.WDS_LINCOLN_GA-YT_1x1_RM_V1_0K_DISNEY;ct.1/01/
+========> META REFRESH <========
+:: ClickMiner :: MetaRefresh :: TS=1352318700906 NewURI:http://www.google.com/pagead/drt/ui CurrURI:http://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318700906 URL=http://www.google.com/pagead/drt/ui CurrURL=http://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211 REF=http://ad-g.doubleclick.net/N6762/adi/mkt.ythome_1x1/;sz=1x1;tile=3;plat=pc;dc_dedup=1;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_3;ord=9156610924468466?
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318700935 URL=about:blank CurrURL=(null) REF=http://www.youtube.com/doubleclick/DARTIframe.html?adParams=id%3D1352165548021%26creativeIdentifier%3DGlobalTemplate_13521655480211352318699930%26adContainerElementId%3D%26mtfNoFlush%3D%26globalTemplateVersion%3D101_06%26isInterstitial%3Dfalse%26mediaServer%3Dhttp%253A//s0.2mdn.net%26adServer%3Dhttp%253A//ad.doubleclick.net%26adserverUrl%3Dhttp%253A//ad.doubleclick.net/activity%253Bsrc%253D3163378%253Bmet%253D1%253Bv%253D1%253Bpid%253D90475835%253Baid%253D264799302%253Bko%253D0%253Bcid%253D51277304%253Brid%253D51246207%253Brv%253D1%253B%26stringPostingUrl%3Dhttp%253A//ad.doubleclick.net/activity%253Bsrc%253D3163378%253Bstragg%253D1%253Bv%253D1%253Bpid%253D90475835%253Baid%253D264799302%253Bko%253D0%253Bcid%253D51277304%253Brid%253D51246207%253Brv%253D1%253Brn%253D8135963%253B%26customKeyValues%3D%26adTagKeys%3D%26swfParams%3Dsn%253DN5700.127733.4511652073321%2526sid%253D722036%2526aid%253D264799302%2526cid%253D51277304%2526pid%253D90475835%2526src%253D3163378%2526rv%253D1%2526rid%253D51246207%2526buy%253D7133137%2526adv%253D3163378%2526ct%253DUS%2526st%253DGA%2526ac%253D706%2526zp%253D30602%2526bw%253D5%2526dma%253D26%2526city%253D13729%2526%26renderingId%3D51246207%26previewMode%3Dfalse%26debugEventsMode%3Dfalse%26pubHideObjects%3D%26pubHideApplets%3Dfalse%26mtfInline%3Dfalse%26pubTop%3D%26pubLeft%3D%26pubTopFloat%3D%26pubRightFloat%3D%26pubBottomFloat%3D%26pubLeftFloat%3D%26pubDuration%3D%26pubWMode%3D%26pubTopDuration%3D%26pubTopWMode%3D%26pubRightDuration%3D%26pubRightWMode%3D%26pubBottomD&gtVersion=101_06&mediaserver=http%3A//s0.2mdn.net/879366&cid=GlobalTemplate_13521655480211352318699930&plcrjs=http%3A//s0.2mdn.net/3163378/plcr_2330328_264799302_1352165552629.js&globalTemplateJs=http%3A//s0.2mdn.net/879366/expandingIframeGlobalTemplate_101_06.js&customScriptFile=&needSlaves=true&numberOfSlaves=2
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318700941 URL=http://s0.2mdn.net/879366/DARTIFrame_101_06.js
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318700947 URL=http://s0.2mdn.net/879366/DARTIFrame_101_06.js
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318700950 URL=about:blank CurrURL=(null) REF=http://www.youtube.com/doubleclick/DARTIframe.html?adParams=%3DN5700.127733.4511652073321%26geoData%3Dct%253DUS%2526st%253DGA%2526ac%253D706%2526zp%253D30602%2526bw%253D5%2526dma%253D26%2526city%253D13729%26csiBaseline%3D1352318699930%26csiAdRespTime%3DNaN%26shouldDisplayFlashAsset%3Dtrue%26globalTemplateJs%3Dhttp%253A//s0.2mdn.net/879366/expandingIframeGlobalTemplate_101_06.js&gtVersion=101_06&mediaserver=http%3A//s0.2mdn.net/879366&cid=GlobalTemplate_13521655480211352318699930&index=1
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318700956 URL=about:blank CurrURL=(null) REF=http://www.youtube.com/doubleclick/DARTIframe.html?adParams=uration%3D%26pubBottomWMode%3D%26pubLeftDuration%3D%26pubLeftWMode%3D%26isRelativeBody%3Dfalse%26debugJSMode%3Dfalse%26adjustOverflow%3Dfalse%26asContext%3D%26clickThroughUrl%3Dhttp%253A//adclick.g.doubleclick.net/aclk%253Fsa%253DL%2526ai%253DBXlfR6b6aUJy0Ioq7sQfFnID4BqWdgcIEAAAAEAEgADgAUMzCvGNYvcXe1Wlgyba5h-CjtBCCARdjYS1wdWItMjYxNDY2NjI2MTU3OTc0MbIBD3d3dy55b3V0dWJlLmNvbboBCWdmcF9pbWFnZcgBCdoBF2h0dHA6Ly93d3cueW91dHViZS5jb20vwAIC4AIA6gIYNDA2MS9jb20ueXRob21lL19kZWZhdWx0-AKE0h6AAwGQA6QDmAOkA6gDAeAEAaAGHg%2526num%253D0%2526sig%253DAOD64_11fx_PHLjw3YfBPGVhSjkwx93M2Q%2526client%253Dca-pub-2614666261579741%2526adurl%253Dhttp%25253A%25252F%25252Fad.doubleclick.net/click%25253Bh%25253Dv8/3d26/3/0/%25252a/k%25253B264799302%25253B0-0%25253B0%25253B90475835%25253B29972-970/250%25253B51277304/51246207/1%25253B%25253B%25257Esscs%25253D%25253f%26clickN%3D%26type%3DExpandingFlash%26uniqueId%3D1352165548021%26thirdPartyImpUrl%3Dhttp%253A//view.atdmt.com/AD0/view/416733130/direct%253Bat.WDS_LINCOLN_GA-YT_1x1_RM_V1_0K_DISNEY%253Bct.1/01/%26thirdPartyFlashDisplayUrl%3D%26thirdPartyBackupImpUrl%3D%26surveyUrl%3D%26googleContextDiscoveryUrl%3Dhttp%253A//pagead2.googlesyndication.com/pagead/ads%253Fclient%253Ddclk-3pas-query%2526output%253Dxml%2526geo%253Dtrue%26livePreviewSiteUrl%3D%2525LivePreviewSiteUrl%26customScriptFileUrl%3D%26servingMethod%3Dx%26mode%3Dflash%26isHTML5Creative%3Dfalse%26isHTML5PreviewMode%3Dfalse%26forceHTML5Creative%3Dfalse%26adId%3D264799302%26buyId%3D7133137%26pageId%3D90475835%26siteId%3D722036%26creativeId%3D51277304%26keyValueOrdinal%3D0%26advertiserId%3D3163378%26renderingVersion%3D1%26siteName&gtVersion=101_06&mediaserver=http%3A//s0.2mdn.net/879366&cid=GlobalTemplate_13521655480211352318699930&index=0
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318700997 URL=http://s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318701027 URL=https://googleads.g.doubleclick.net/pagead/drt/si?p=CAA&ut=AFAKxlQAAAAAUJrCcJnn7xjQSB9AVMljp4pjJJqtM8dr REF=http://www.google.com/pagead/drt/ui
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318701065 URL=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=11&ct=1352318700&rver=6.1.6206.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dhome%26livecom%3D1&lc=1033&id=64855&mkt=en-us&cbcxt=mai REF=https://mail.live.com/?rru=home&livecom=1
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318701106 URL=about:blank CurrURL=(null) REF=http://www.amazon.com/
+=======> OPENED XMLHttpRequest <=======
+:: ClickMiner :: XMLHttpRequest :: TS=1352318701116 URL=http://www.amazon.com/gp/product/sessionCacheUpdateHandler.html 
+BaseURI=http://www.amazon.com/
+=======> OPENED XMLHttpRequest <=======
+:: ClickMiner :: XMLHttpRequest :: TS=1352318701128 URL=http://www.qq.com/c/tuangouInfo20120917.htm?random=0.2562346778593534&city=%e5%85%b6%e4%bb%96%e5%b8%82 
+BaseURI=http://www.qq.com/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318701168 URL=about:blank CurrURL=(null) REF=http://www.youtube.com/
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318701196 URL=http://www.baidu.com/favicon.ico
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318701202 URL=http://www.amazon.com/aan/2009-09-09/static/amazon/iframeproxy-15.html#zus&cbDAr7&iDAr7&r1&v1 CurrURL=(null) REF=http://www.amazon.com/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318701264 URL=http://s.amazon-adsystem.com/iu3?d=amazon.com&a1=&a2=0101fb4c4b1d6eadd2e8601d48ef1e29a8307360c1bd4a8896ba7610a6d9c421c940&old_oo=0&n=1352318701264 CurrURL=(null) REF=http://www.amazon.com/
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318701319 URL=http://www.yahoo.com/favicon.ico
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318701605 URL=http://www.amazon.com/favicon.ico
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318701687 URL=http://s.amazon-adsystem.com/iu3?d=amazon.com&a1=&a2=0101fb4c4b1d6eadd2e8601d48ef1e29a8307360c1bd4a8896ba7610a6d9c421c940&old_oo=0&n=1352318701264&dcc=t REF=http://s.amazon-adsystem.com/iu3?d=amazon.com&a1=&a2=0101fb4c4b1d6eadd2e8601d48ef1e29a8307360c1bd4a8896ba7610a6d9c421c940&old_oo=0&n=1352318701264
+======> nsPluginHost::GetURL <======
+:: ClickMiner :: PluginGetURL :: TS=1352318701742 URL=http://s0.2mdn.net/ads/richmedia/studio/22645997/22674117_1352136668045_youtube_970x250.swf REF=(null)
+======> nsPluginHost::GetURL <======
+:: ClickMiner :: PluginGetURL :: TS=1352318701743 URL=http://www.gstatic.com/doubleclick/studio/innovation/ytclose/2.1/ytclosebutton.swf REF=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318701785 URL=http://adsfile.qq.com/201209/12/tbzg_QHU_201209122617.html CurrURL=(null) REF=http://www.qq.com/
+======> nsPluginHost::GetURL <======
+:: ClickMiner :: PluginGetURL :: TS=1352318702878 URL=http://www.gstatic.com/doubleclick/studio/innovation/ytplayer/3.1/ytplayer.swf REF=(null)
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318702895 URL=http://c.amazon-adsystem.com/sis/main/3.1/prod-g.html CurrURL=(null) REF=http://s.amazon-adsystem.com/iu3?d=amazon.com&a1=&a2=0101fb4c4b1d6eadd2e8601d48ef1e29a8307360c1bd4a8896ba7610a6d9c421c940&old_oo=0&n=1352318701264&dcc=t
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318702895 URL=http://c.amazon-adsystem.com/sis/main/3.1/prod-am-v1.html CurrURL=(null) REF=http://s.amazon-adsystem.com/iu3?d=amazon.com&a1=&a2=0101fb4c4b1d6eadd2e8601d48ef1e29a8307360c1bd4a8896ba7610a6d9c421c940&old_oo=0&n=1352318701264&dcc=t
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318702896 URL=http://c.amazon-adsystem.com/sis/main/3.1/prod-rb.html CurrURL=(null) REF=http://s.amazon-adsystem.com/iu3?d=amazon.com&a1=&a2=0101fb4c4b1d6eadd2e8601d48ef1e29a8307360c1bd4a8896ba7610a6d9c421c940&old_oo=0&n=1352318701264&dcc=t
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318702896 URL=http://c.amazon-adsystem.com/sis/main/3.1/prod-ox.html CurrURL=(null) REF=http://s.amazon-adsystem.com/iu3?d=amazon.com&a1=&a2=0101fb4c4b1d6eadd2e8601d48ef1e29a8307360c1bd4a8896ba7610a6d9c421c940&old_oo=0&n=1352318701264&dcc=t
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318702896 URL=http://c.amazon-adsystem.com/sis/main/3.1/prod-pm.html CurrURL=(null) REF=http://s.amazon-adsystem.com/iu3?d=amazon.com&a1=&a2=0101fb4c4b1d6eadd2e8601d48ef1e29a8307360c1bd4a8896ba7610a6d9c421c940&old_oo=0&n=1352318701264&dcc=t
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318702897 URL=http://s.amazon-adsystem.com/v3/pr?a=pt&pid=1074 CurrURL=(null) REF=http://s.amazon-adsystem.com/iu3?d=amazon.com&a1=&a2=0101fb4c4b1d6eadd2e8601d48ef1e29a8307360c1bd4a8896ba7610a6d9c421c940&old_oo=0&n=1352318701264&dcc=t
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318702897 URL=http://s.amazon-adsystem.com/v3/pr?a=pt&pid=1075 CurrURL=(null) REF=http://s.amazon-adsystem.com/iu3?d=amazon.com&a1=&a2=0101fb4c4b1d6eadd2e8601d48ef1e29a8307360c1bd4a8896ba7610a6d9c421c940&old_oo=0&n=1352318701264&dcc=t
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318703375 URL=http://tap.rubiconproject.com/oz/feeds/amazon-rtb/tokens/?rt=img CurrURL=(null) REF=http://c.amazon-adsystem.com/sis/main/3.1/prod-rb.html
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318703383 URL=http://ads.pubmatic.com/AdServer/js/a9.syncuppixels.html CurrURL=(null) REF=http://c.amazon-adsystem.com/sis/main/3.1/prod-pm.html
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318703391 URL=about:blank CurrURL=(null) REF=http://adsfile.qq.com/201209/12/tbzg_QHU_201209122617.html
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318703549 URL=about:blank CurrURL=(null) REF=https://twitter.com/
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318703559 URL=http://s.amazon-adsystem.com/ecm3?ex=doubleclick.net&google_error=0 REF=http://cm.g.doubleclick.net/pixel?google_nid=a9&google_cm&ex=doubleclick.net
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318703562 URL=http://s.amazon-adsystem.com/ecm3?id=c73a191d-dda1-41d0-a922-cbab85512e33&ex=admeld.com REF=http://tag.admeld.com/id?redirect=http%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fid%3D%5Badmeld_user_id%5D%26ex%3Dadmeld.com
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318703602 URL=http://s.amazon-adsystem.com/ecm3?id=&ex=rubiconproject.com&status=no-user-id REF=http://tap.rubiconproject.com/oz/feeds/amazon-rtb/tokens/?rt=img
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318703603 URL=http://s.amazon-adsystem.com/ecm3?ex=openx.com&id=11234564-139c-c26f-01e9-14687e7c2e52 REF=http://bid.openx.net/cm?pid=e818ca1e-0c23-caa8-0dd3-096b0ada08b7&dst=http%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dopenx.com%26id%3D
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318703636 URL=http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V401903535_.png
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318703653 URL=http://mp.apmebf.com/ad/tr/17755-143512-17214-22?mpt=6,086,864,927,179,885,716&host=altfarm.mediaplex.com REF=http://altfarm.mediaplex.com/ad/tr/17755-143512-17214-22?mpt=6,086,864,927,179,885,716
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318703874 URL=http://s.amazon-adsystem.com/ecm3?id=74509683-D858-4ED3-B9EA-55D1E93568B5&ex=pubmatic.com CurrURL=(null) REF=http://ads.pubmatic.com/AdServer/js/a9.syncuppixels.html
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318703876 URL=http://image4.pubmatic.com/AdServer/SPug CurrURL=(null) REF=http://ads.pubmatic.com/AdServer/js/a9.syncuppixels.html
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318703878 URL=https://s-static.ak.facebook.com/rsrc.php/yP/r/Ivn-CVe5TGK.ico
+======> SUCCESSFUL REDIRECTION! <=========
+:: ClickMiner :: Redirect :: TS=1352318703923 URL=http://altfarm.mediaplex.com/ad/tr/17755-143512-17214-22?mpt=6,086,864,927,179,885,716&no_cj_c=1&upsid=054357903954 REF=http://mp.apmebf.com/ad/tr/17755-143512-17214-22?mpt=6,086,864,927,179,885,716&host=altfarm.mediaplex.com
+======> nsPluginHost::GetURL <======
+:: ClickMiner :: PluginGetURL :: TS=1352318703940 URL=http://www.youtube.com/v/Z3Lu5fSkRF4?theme=dark&color=red&cc%5Fload%5Fpolicy=0&rel=0&modestbranding=1&showinfo=0&controls=0&version=3&iv%5Fload%5Fpolicy=3&fs=1 REF=(null)
+======> nsPluginHost::GetURL <======
+:: ClickMiner :: PluginGetURL :: TS=1352318703953 URL=http://www.youtube.com/v/Z3Lu5fSkRF4?theme=dark&color=red&cc%5Fload%5Fpolicy=0&rel=0&modestbranding=1&showinfo=0&controls=0&version=3&iv%5Fload%5Fpolicy=3&fs=1 REF=(null)
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318703971 URL=http://z-ecx.images-amazon.com/images/G/01/browser-scripts/us-site-wide-css-beacon/site-wide-7182897116._V1_.css
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318704057 URL=http://z-ecx.images-amazon.com/images/G/01/browser-scripts/amazonLike/amazonLike-682075628._V1_.js
+=======> OPENED XMLHttpRequest <=======
+:: ClickMiner :: XMLHttpRequest :: TS=1352318704111 URL=https://login.live.com/pp1350/GetUserRealm.srf 
+BaseURI=https://login.live.com/pp1350/
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318704116 URL=https://secure.shared.live.com/~Live.SiteContent.Explore/~15.40.70/header/mai/EN-US/header.html?id=64855&mkt=EN-US&cbcxt=mai CurrURL=(null) REF=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=11&ct=1352318700&rver=6.1.6206.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dhome%26livecom%3D1&lc=1033&id=64855&mkt=en-us&cbcxt=mai
+============> LOADING A NEW URI <============
+:: ClickMiner :: LoadNewPage :: TS=1352318704119 URL=https://sc.imp.live.com/content/dam/imp/surfaces/mail_signin/v3/mai/EN-US.html?id=64855&mkt=EN-US&cbcxt=mai CurrURL=(null) REF=https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=11&ct=1352318700&rver=6.1.6206.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dhome%26livecom%3D1&lc=1033&id=64855&mkt=en-us&cbcxt=mai
+======> READ FROM THE CACHE <========
+:: ClickMiner :: ReadFromCache :: TS=1352318704311 URL=https://secure.shared.live.com/~Live.SiteContent.ID/~16.4.22/~/~/~/~/images/favicon.ico
+======> nsPluginHost::GetURL <======
+:: ClickMiner :: PluginGetURL :: TS=1352318704768 URL=http://s.ytimg.com/yts/swfbin/watch_as3-vfluMrR3B.swf REF=(null)
+======> nsPluginHost::GetURL <======
+:: ClickMiner :: PluginGetURL :: TS=1352318704772 URL=http://s.ytimg.com/yts/swfbin/watch_as3-vfluMrR3B.swf REF=(null)
+NOTE: child process received `Goodbye', closing down

@@ -1,0 +1,5 @@
+Opened Firefox to http://hoodamath.com/gamesforyoursite/
+Clicked on the flash ad (cursormania)
+Closed the browser.
+
+Purpose: To test multi-layer frames.

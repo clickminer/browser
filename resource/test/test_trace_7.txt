@@ -1,0 +1,6 @@
+Opened Firefox to http://cs.uga.edu/~neasbitt/resume.html
+Clicked on the  Evolving Mathematical Functions with Genetic Algorithms - A Team Project on Artificial Intelligence link, http://cs.uga.edu/~neasbitt/files/fecs2006.pdf
+Selected OK on the modal dialog
+Closed Firefox once download was complete
+
+Purpose: To test file downloads and modal dialogs

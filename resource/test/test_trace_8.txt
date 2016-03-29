@@ -1,0 +1,6 @@
+Opened Firefox to http://cs.uga.edu/~neasbitt/js_test.html
+Clicked on the NEWEGG button.
+Landed on http://www.newegg.com
+Closed Firefox
+
+Purpose: To test searching for javascript elements.

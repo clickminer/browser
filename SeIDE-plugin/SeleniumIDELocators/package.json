@@ -1,0 +1,9 @@
+{
+    "name": "seleniumidelocators",
+    "license": "MPL 2.0",
+    "author": "Chris Neasbitt",
+    "version": "0.1",
+    "fullName": "SeleniumIDELocators",
+    "id": "jid1-UJ9TAe5RAePSeg",
+    "description": "Provides only the LocatorBuilders class of Selenium IDE."
+}

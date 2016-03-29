@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<script type="text/javascript">
+		function a_onclick() 
+		{
+			window.location.href = "http://www.google.com";
+		}
+		
+		function b_onclick() 
+		{
+			window.location.href = "http://www.newegg.com";
+		}
+		
+		function c_onclick() 
+		{
+			window.location.href = "http://www.cnet.com";
+		}
+	</script>
+	<input id="GOOGLE" type="button" value="GOOGLE" onclick="return a_onclick()" /><br/>
+	<input id="NEWEGG" type="button" value="NEWEGG" onclick="return b_onclick()" /><br/>
+	<input id="CNET" type="button" value="CNET" onclick="return c_onclick()" /><br/>
+	<a id="YAHOO" href="javascript: window.location.href='http://www.yahoo.com'">YAHOO</a><br/>
+	<a id="NYTIMES" href="http://www.google.com" onclick="javascript: window.location.href='http://www.nytimes.com/'; return false;">NYTIMES</a><br/>
+</body>
+</html>
